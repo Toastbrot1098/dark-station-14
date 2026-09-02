@@ -52,11 +52,6 @@ cd dark-station-14
 python RUN_THIS.py
 ```
 
-Alternativly you can also just continue from step 1 into the project folder using "CD (project folder name)" and run:
-```shell
-git submodule update --init --recursive
-```
-
 3. Compile the solution:  
 
 Build the server using `dotnet build`.
